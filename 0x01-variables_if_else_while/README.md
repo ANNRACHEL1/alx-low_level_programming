@@ -1,4 +1,1 @@
-### Alx low level Programming
-
-----
-Variables
+variables if else and while
